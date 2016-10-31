@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Drop All"
+        android:id="@+id/menu_Dropall">
+    </item>
+    <item
+        android:title="Exit"
+        android:id="@+id/menu_Exit">
+    </item>
+
+
+
+</menu>
